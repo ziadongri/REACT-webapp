@@ -1,0 +1,28 @@
+/* App.css */
+/* Add styles for your components here */
+
+/* Style the app title */
+.app-title {
+    color: red; /* Set the text color to red */
+  }
+  
+  /* Style the red wave */
+  /* You might need to adjust these styles based on your specific requirements */
+  .wavify-wrapper {
+    background-color: red; /* Set the background color to red */
+  }
+  
+  .wavify-path {
+    fill: white; /* Set the wave color to white */
+  }
+  
+
+  /* .footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #ccc;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  } */

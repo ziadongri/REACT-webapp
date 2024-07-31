@@ -1,0 +1,106 @@
+/* form.css */
+
+/* Style for form container */
+.container {
+  padding: 5px;
+ 
+
+}
+
+.large-heading {
+  font-size: 33px; /* Adjust the font size as needed */
+}
+
+/* Style for form navigation sidebar */
+.form-navigation {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  border-right: 1px solid #dcdcdc;
+}
+
+.form-navigation h3 {
+  margin-bottom: 15px;
+}
+
+.form-navigation ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.form-navigation ul li {
+  margin-bottom: 10px;
+}
+
+/* Style for form header */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Style for form labels */
+.form-label {
+  font-weight: bold;
+}
+
+/* Style for form submit button */
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Style for form links */
+.text-decoration-none {
+  text-decoration: none;
+  color: inherit;
+}
+
+.form1-subsection {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.form2-subsection {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Style for Form 2 subsection links */
+.form2-subsection-list {
+  list-style: disc inside; /* Apply list-style to ul */
+}
+
+.form2-subsection-link {
+  color: #007bff; /* Change the color as needed */
+  text-decoration: none;
+}
+
+.form2-subsection-link:hover {
+  text-decoration: none;
+}
+
+.nav-link {
+  color: black;
+}
+
+.sticky-navigation {
+  position: sticky;
+  top: 20px; /* Adjust as needed */
+  z-index: 1000; /* Adjust if necessary */
+  background-color: #fff; /* Set the background color */
+  border-radius: 10px; /* Adjust as needed */
+  border: 1px solid #000000; /* Add border for visual distinction */
+  padding: 15px; /* Add padding inside the box */
+}
+
+.content-box {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
